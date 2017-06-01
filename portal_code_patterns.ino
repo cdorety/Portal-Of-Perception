@@ -27,7 +27,7 @@ int pos, dir;
 uint32_t color[4] = {random(255), random(255), random(255), random(20)};   //no longer used
 
 
-int larsenPause = 75;  delay used in the larsen function
+int larsenPause = 75;  //delay used in the larsen function
 
 // ********************************* variable for plasma pattern
 float redStates[NUM_strip];
